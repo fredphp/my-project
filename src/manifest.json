@@ -1,0 +1,14 @@
+{
+  "name": "yuanxin-esports",
+  "appid": "",
+  "description": "缘心电竞",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "缘心电竞",
+    "router": {
+      "mode": "hash"
+    }
+  }
+}
